@@ -1,5 +1,5 @@
 //My Name But Cooler
-//Navya Narukulla 
+//Navya Narukulla  
 //--------------------------------------------------------------------\\
 //first a
 int num=20, steps = 20;
